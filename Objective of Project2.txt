@@ -1,0 +1,13 @@
+Morom Trends Store wants to create an annual sales report for 2023. So that, the owner can understand their customers and grow more sales in 2024.
+
+
+Sample Questions:
+
+1. Compare the sales and order using single chart 
+2. Which Month Got the Highest sales and orders?
+3. Who Purchased more- men or Women in 2023
+4. What are different order status in 2023
+5. List top 5 state contributing to the sales 
+6. Relation between age and gender based on the number of order
+7. which Channel is contributing to maximum sales?
+8. Highest selling categories, etc.

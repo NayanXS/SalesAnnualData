@@ -1,0 +1,24 @@
+1. Data cleaning
+
+> Checked for null values in every column
+> Checked or unusual entries.
+> And made the entries uniform by replacing the odd entries
+> replaced 2022 data to 2023
+
+
+
+2. Data Processing
+
+> Created Age Group Formula
+> Created Month using Formula
+> Copy pasted values to speed up the System efficiency
+> Highlighted the Column in yellow Extracted by formula 
+
+
+
+3. Data Analysis
+
+> Create Pivot Tables according to the sample questions
+> Created Order Vs Sales and edited the axis values using formula (0.00,,"M") as million
+> Added secondary axis to make visible orders as thousands are negligible with respect   to millions.
+>
