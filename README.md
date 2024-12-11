@@ -39,8 +39,7 @@ This project analyzes the annual sales data for **Morom Trends Store** over the 
 - **Customer Insights**: Include customer segmentation data for more granular analysis.
 - **Advanced Visualization**: Use tools like Power BI or Tableau for more advanced visualizations.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgements
 - **Morom Trends Store** for providing the sales data.
@@ -48,5 +47,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 
 ## Contact
-For questions or feedback, please feel free to open an issue or contact [your-nayanxs8881@gmail.com].
+For questions or feedback, please feel free to open an issue or contact [nayanxs8881@gmail.com].
 
